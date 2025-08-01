@@ -23,16 +23,6 @@ I'm passionate about building scalable, efficient, and user-friendly application
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rutiksonmali&show_icons=true&theme=default" alt="Rutik's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rutiksonmali&theme=default" alt="GitHub Streak" />
-</p>
-
----
-
 ## 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/rutik-sonmali)
