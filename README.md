@@ -28,5 +28,3 @@ I'm passionate about building scalable, efficient, and user-friendly application
 - [LinkedIn](https://www.linkedin.com/in/rutik-sonmali)
 
 ---
-
-Thanks for stopping by! 🙌
